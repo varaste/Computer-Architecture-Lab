@@ -1,0 +1,5 @@
+NET "clk" LOC=p161;
+NET "reset" LOC=p162;
+NET "A" LOC=p42;
+NET "B" LOC=p43;
+NET "clk" CLOCK_DEDICATED_ROUTE = FALSE;

@@ -1,0 +1,9 @@
+NET "clk" LOC=p161;
+NET "input" LOC=p172;
+NET "output" LOC=p42;
+NET "test[0]" LOC=p61;
+NET "test[1]" LOC=p62;
+NET "test[2]" LOC=p63;
+NET "test[3]" LOC=p64;
+NET "test[4]" LOC=p65;
+NET "clk" CLOCK_DEDICATED_ROUTE = FALSE;
