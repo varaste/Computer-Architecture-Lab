@@ -1,0 +1,16 @@
+NET "a[0]" LOC=p161;
+NET "a[1]" LOC=p162;
+NET "a[2]" LOC=p165;
+NET "a[3]" LOC=p166;
+NET "b[0]" LOC=p172;
+NET "b[1]" LOC=p175;
+NET "b[2]" LOC=p176;
+NET "b[3]" LOC=p178;
+NET "p[0]" LOC=p61;
+NET "p[1]" LOC=p62;
+NET "p[2]" LOC=p63;
+NET "p[3]" LOC=p64;
+NET "p[4]" LOC=p65;
+NET "p[5]" LOC=p67;
+NET "p[6]" LOC=p68;
+NET "p[7]" LOC=p71;
